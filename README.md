@@ -1,5 +1,5 @@
 # lvgl_unifont
-unifont libaray for LittlevGL
+unifont library for LittlevGL
 
 # usage
 1. clone or download this repo
